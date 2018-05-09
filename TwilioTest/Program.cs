@@ -20,10 +20,11 @@ namespace TwilioTest
     {
         static void Main(string[] args)
         {
+            var api_keys = new Api_Keys();
             var client = new RestClient("https://api.twilio.com/2010-04-01");
             //1
-            var request = new RestRequest("Accounts/AC600d33d12250881c23268a6e5e15d03c/Messages.json", Method.GET);
-            client.Authenticator = new HttpBasicAuthenticator("AC600d33d12250881c23268a6e5e15d03c", "579a3ee73658605546bd490f30aacf3e");
+            var request = new RestRequest("Accounts/AccountSID/Messages.json", Method.GET);
+            client.Authenticator = new HttpBasicAuthenticator(api_keys.AccountSID, api_keys.AuthToken);
             //2
             var response = new RestResponse();
             //3a
