@@ -1,0 +1,11 @@
+C:\Users\epicodus\Desktop\Projects\TwilioTest\TwilioTest\bin\Debug\netcoreapp2.0\TwilioTest.deps.json
+C:\Users\epicodus\Desktop\Projects\TwilioTest\TwilioTest\bin\Debug\netcoreapp2.0\TwilioTest.runtimeconfig.json
+C:\Users\epicodus\Desktop\Projects\TwilioTest\TwilioTest\bin\Debug\netcoreapp2.0\TwilioTest.runtimeconfig.dev.json
+C:\Users\epicodus\Desktop\Projects\TwilioTest\TwilioTest\bin\Debug\netcoreapp2.0\TwilioTest.dll
+C:\Users\epicodus\Desktop\Projects\TwilioTest\TwilioTest\obj\Debug\netcoreapp2.0\TwilioTest.csprojResolveAssemblyReference.cache
+C:\Users\epicodus\Desktop\Projects\TwilioTest\TwilioTest\obj\Debug\netcoreapp2.0\TwilioTest.csproj.CoreCompileInputs.cache
+C:\Users\epicodus\Desktop\Projects\TwilioTest\TwilioTest\obj\Debug\netcoreapp2.0\TwilioTest.AssemblyInfoInputs.cache
+C:\Users\epicodus\Desktop\Projects\TwilioTest\TwilioTest\obj\Debug\netcoreapp2.0\TwilioTest.AssemblyInfo.cs
+C:\Users\epicodus\Desktop\Projects\TwilioTest\TwilioTest\bin\Debug\netcoreapp2.0\TwilioTest.pdb
+C:\Users\epicodus\Desktop\Projects\TwilioTest\TwilioTest\obj\Debug\netcoreapp2.0\TwilioTest.dll
+C:\Users\epicodus\Desktop\Projects\TwilioTest\TwilioTest\obj\Debug\netcoreapp2.0\TwilioTest.pdb
